@@ -1,2 +1,2 @@
 # C-Projects
-Various C++ Projects from the Spring of 2020
+A few C++ Projects from the Spring of 2020. Currently includes a hexpath finder and a Sudoku solver. 
